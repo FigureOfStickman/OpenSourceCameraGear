@@ -1,2 +1,5 @@
-# OpenSourceCameraGear
-Designs and instructions to produce video camera accessories with widespread compatibility, under the principles of open-source hardware as well as film industry standards.
+# Open-Source Camera Gear
+This is a WiP library for camera accessories I've designed and manufactured at home.
+## Projects
+### Modular LWS Baseplate
+The goal of this project is to create a baseplate system
